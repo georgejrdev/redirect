@@ -24,7 +24,7 @@ const dest = {
     "blog-post-always-choose-the-simple":"https://georgejrdev.github.io/Portfolio/post.html?id=0",
     "blog-post-a-good-idea-for-a-simple-workflow":"https://georgejrdev.github.io/Portfolio/post.html?id=1",
     "blog-post-the-basics-of-git":"https://georgejrdev.github.io/Portfolio/post.html?id=2",
-    "blog-post-javaScript-is-the-worst-language":"https://georgejrdev.github.io/Portfolio/post.html?id=3",
+    "blog-post-javascript-is-the-worst-language":"https://georgejrdev.github.io/Portfolio/post.html?id=3",
 }
 
 function redirect(){
