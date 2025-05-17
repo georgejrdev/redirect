@@ -1,6 +1,6 @@
 const dest = {
     "portfolio":"https://georgejrdev.github.io/Portfolio/",
-    "blog":"https://georgejrdev.github.io/Portfolio/blog.html",
+    "blog":"https://medium.com/@oliveirajunio748",
     "linkedin":"https://www.linkedin.com/in/georgejrdev/",
     "youtube":"https://www.youtube.com/@Hipper-2701",
     "github":"https://github.com/georgejrdev",
@@ -21,10 +21,10 @@ const dest = {
     "project-github-audiobook-generator":"https://github.com/georgejrdev/AudioBook-Generator",
     "project-deploy-audiobook-generator":"https://audiobook-generator-chi.vercel.app/",
 
-    "blog-post-always-choose-the-simple":"https://georgejrdev.github.io/Portfolio/post.html?id=0",
-    "blog-post-a-good-idea-for-a-simple-workflow":"https://georgejrdev.github.io/Portfolio/post.html?id=1",
-    "blog-post-the-basics-of-git":"https://georgejrdev.github.io/Portfolio/post.html?id=2",
-    "blog-post-javascript-is-the-worst-language":"https://georgejrdev.github.io/Portfolio/post.html?id=3",
+    "blog-post-always-choose-the-simple":"https://medium.com/@oliveirajunio748/always-choose-simplicity-61bcf37e6910",
+    "blog-post-a-good-idea-for-a-simple-workflow":"deleted",
+    "blog-post-the-basics-of-git":"deleted",
+    "blog-post-javascript-is-the-worst-language":"deleted",
 }
 
 function redirect(){
@@ -64,7 +64,7 @@ function renderError(key){
 
 function renderDeleted(key){
     document.getElementById("success").style.display = "none"
-    document.getElementById("h1-deleted").innerHTML = `The page ${key} has been deleted.`
+    document.getElementById("h1-deleted").innerHTML = `The page has been deleted.`
     document.getElementById("deleted").style.display = "block"
 }
 

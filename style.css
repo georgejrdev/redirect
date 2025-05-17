@@ -16,3 +16,8 @@ body {
 #error, #deleted {
     display: none;
 }
+
+#p-deleted {
+    margin-top: 10px;
+    text-align: center;
+}
