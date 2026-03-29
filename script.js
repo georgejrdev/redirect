@@ -4,6 +4,7 @@ const dest = {
     "linkedin":"https://www.linkedin.com/in/georgejrdev/",
     "github":"https://github.com/georgejrdev",
     "lattes":"http://lattes.cnpq.br/1133403728021540",
+    "link-tree":"https://georgejrdev.github.io/Link-Tree/",
 
     "project-github-super-toolkit":"https://github.com/georgejrdev/Super-ToolKit",
     "project-deploy-big-lib":"deleted",
@@ -11,7 +12,7 @@ const dest = {
     "project-deploy-text-highlighter":"deleted",
     "project-github-study-planner":"deleted",
     "project-github-link-tree":"https://github.com/georgejrdev/Link-Tree",
-    "project-deploy-link-tree":"https://georgejrdev.github.io/Link-Tree/",
+    "project-deploy-link-tree":"https://georgejrdev.github.io/redirect/?to=link-tree",
     "project-github-slide-js":"deleted",
     "project-deploy-slide-js":"deleted",
     "project-deploy-vocabulary":"deleted",
